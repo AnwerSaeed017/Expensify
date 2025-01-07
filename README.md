@@ -50,7 +50,7 @@ Expensify is a feature-rich mobile application designed to help users manage the
 
    Use Google Maps to view your current location.
     
-   Associate expenses with specific locations.
+   View locations of places near you based on categories. like for Food category you will see restaurants,cafes on google map
 
 6. Profile Customization
 
